@@ -1,0 +1,8 @@
+node_modules/
+dist/
+out/
+broadcast/
+cache/
+.env
+.DS_Store
+.vscode/
